@@ -1,0 +1,13 @@
+GIT(Version Control Tool):
+1. Used to keep track of code changes
+2. Used to collaborate on code( Multiple user to user)
+3. Git is the backbone(web-based git repository)
+4. Git hub is the upper layer(cloud hosting space)
+5. Alternatives are Bit bucket and Git bucket
+
+Steps to Install Git:
+1. Git hub Account creation
+2. Download any code editor (VS code)
+3. Download git from Web
+
+ 

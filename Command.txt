@@ -8,4 +8,6 @@ Add a new file in VS Code
     git add filename
     git commit -m "commit message"
     git push orgin main
+Pull from repository
+git pull
     

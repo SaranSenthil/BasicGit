@@ -1,0 +1,11 @@
+To clone Git use below command
+    git clone githubrepository link
+go to the git Director
+    cd github repository
+    git status
+Add a new file in VS Code
+    git status
+    git add filename
+    git commit -m "commit message"
+    git push orgin main
+    
